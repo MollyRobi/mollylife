@@ -1,0 +1,27 @@
+<html>
+  <head> 
+  <style>
+    body {background-color: #84a9e0;
+          color: white;
+          font-size: 32px;
+          font-family: Times New Roman
+          }
+    .center { 
+            display: flex;
+            justify-content: center; 
+            align-items: center;
+            height: 200px;
+ 
+          }
+  </style>
+    </head>
+  <body> 
+    <div class="center"> 
+    <h2>Fishing with Me</h2>
+        </div>
+    <div class="center"> 
+    <p>One of my favorite pastimes!</p>
+    </div>
+
+</body>
+</html> 
